@@ -1,0 +1,133 @@
+.1_3 { 
+	overflow:hidden;
+}
+.e1_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1200px;
+	height:675px;
+}
+.e1_4 { 
+	width:1200px;
+	height:675px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e4_34 { 
+	width:1200px;
+	height:675px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(illustration_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_8 { 
+	background-color:rgba(22.4910007417202, 61.18752770125866, 69.30900290608406, 1);
+	width:975px;
+	height:309px;
+	position:absolute;
+	left:127px;
+	top:138px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+}
+.e1_9 { 
+	color:rgba(183.60000729560852, 242.1246188879013, 255, 1);
+	width:943px;
+	height:79px;
+	position:absolute;
+	left:16px;
+	top:8px;
+	font-family:Fira Sans;
+	text-align:center;
+	font-size:64px;
+	letter-spacing:5;
+}
+.e1_10 { 
+	width:943px;
+	height:198px;
+	position:absolute;
+	left:16px;
+	top:95px;
+}
+.e1_11 { 
+	color:rgba(255, 255, 255, 1);
+	width:943px;
+	height:154px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Fira Sans;
+	text-align:center;
+	font-size:42px;
+	letter-spacing:0;
+}
+.e1_12 { 
+	color:rgba(255, 255, 255, 1);
+	width:943px;
+	height:44px;
+	position:absolute;
+	left:0px;
+	top:154px;
+	font-family:Fira Sans;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e1_13 { 
+	background-color:rgba(250.00000029802322, 249.00000035762787, 247.00000047683716, 1);
+	width:739px;
+	height:115px;
+	position:absolute;
+	left:231px;
+	top:493px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+}
+.e1_15 { 
+	width:515px;
+	height:83px;
+	position:absolute;
+	left:208px;
+	top:16px;
+}
+.e1_16 { 
+	color:rgba(22.000000588595867, 61.00000016391277, 69.00000348687172, 1);
+	width:515px;
+	height:38px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Fira Sans;
+	text-align:center;
+	font-size:44px;
+	letter-spacing:-2;
+}
+.e1_17 { 
+	color:rgba(22.000000588595867, 61.00000016391277, 69.00000348687172, 1);
+	width:512px;
+	height:27px;
+	position:absolute;
+	left:0px;
+	top:56px;
+	font-family:Fira Sans;
+	text-align:center;
+	font-size:26px;
+	letter-spacing:-1.5;
+}
+.e4_35 { 
+	width:176px;
+	height:83px;
+	position:absolute;
+	left:16px;
+	top:16px;
+	background-image:url(logo_pyconfr_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
